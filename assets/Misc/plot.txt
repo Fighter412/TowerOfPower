@@ -1,0 +1,22 @@
+Protagonist: Blake Smith, the Blacksmith
+Plot: Blake's Great great grandfather forged a special sword for a great wizard, Duarte
+
+Long ago, There was a powerful sorcerer by the name of Duarte Stoddarde. He was known all throughout the land for his incredible magical power and his love for peace. All was well, until one day he vanished.
+Just before he disappeared he made one request for Blake Smith, the greatest Blacksmith in all the land and also your ancestor.
+He requested a sword, a powerful sword, the greatest sword he had ever made. After he recieved this sword, he enchanted it with a great power and named it "Spiders Bane". He returned it to the smith and left, never to be seen again.
+Many years later, the sword still lays above your fireplace.
+At least, it did, until someone stole it! Upon this discovery, you find an old compartment hidden behind where the sword was held.
+within it there lies a map, and a note. the note reads:
+If you are reading this then it means one of two things, either a great evil has arisen or spiders bane has been stolen. Whichever it is this sword is most certaily headed to Stoddarde tower. My tower is to be found deep underground in a cavern, it is guarded by an army of spiders which you will need the sword to get past. The map will show you the way but if this sword of great power has been stolen then you must hurry! If whoever has stolen it uses it to get inside the tower and claims the power for himself, then there is nothing we can do.
+
+Alger - Distinguished warrior
+
+Narration:
+<1642, King's Clipstone>
+Verily, in times of yore, amidst great sorcerers, dwelt Duarte Stoddarde, a wizard of renown. His latest quest demanded a special sword, the soulreaper.
+Forged from Fleetwood's coals by Blake Smith, the finest blacksmith in all England, this blade was imbued with the Bane of Arthropods enchantment, aiding Duarte against monstrous foes.
+Now, returned to the Smith line, the sword rests above Nixon Smith's fireplace.
+<1873, 231 years later>
+Nixon Smith returns home to discover the soulreaper missing. A concealed compartment has opened, revealing a note: "The sword hath vanished, the path be clear — unto the tower of might. ~ Duarte Stoddarde"
+Someone wants the power for himself, and he is headed for the tower of power.
+<end>
